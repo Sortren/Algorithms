@@ -30,5 +30,13 @@ We are done with writing our code, even when we just finished to code the left "
 proof, that you could find on the internet. It's really bounded to recursion, I encourage you to look through this.
 Thus, the right part of the tree should look like this:
 ![step_five](https://user-images.githubusercontent.com/79079000/115122616-1ed56600-9fb9-11eb-9d36-c5d45bf38d1c.png)
+Now the same will happen, algorithm will merge both left and right arrays in the "tree" and replace original array with a new - sorted one. 
+(BTW I marked the right branch with "IX" number, that means the same operation order is going to happen as on the left branch)
+You might know the result:
+![step_final](https://user-images.githubusercontent.com/79079000/115122793-17628c80-9fba-11eb-96e0-0496e69f9b2e.png)
+Important things weren't cover today, such as how does the recusrion, and the call stack really work. Therefore, I really encourage you to look through 
+"Grokking algorithms" by Aditya Y. Bhargava, best book for beginners in algorithms. 
+That's it for the merge sort!
+
 
 
