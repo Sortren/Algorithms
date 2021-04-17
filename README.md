@@ -26,7 +26,7 @@ the main .py file.
 It should look like this:
 ![step_four](https://user-images.githubusercontent.com/79079000/115122396-0f095200-9fb8-11eb-99d4-a91a515eb937.png)
 Now it's the part when the program will do exacly the same as it had done with the left "branch". There is no point to explain this one more time. Literally,
-We are done with writing our code, even when we just finished to code the left "branch: of the tree. It might be proved by something called "inductive proof", it's a mathematical
+We are done with writing our code, even when we just finished to code the left "branch" of the tree. It might be proved by something called "inductive proof", it's a mathematical
 proof, that you could find on the internet. It's really bounded to recursion, I encourage you to look through this.
 Thus, the right part of the tree should look like this:
 ![step_five](https://user-images.githubusercontent.com/79079000/115122616-1ed56600-9fb9-11eb-9d36-c5d45bf38d1c.png)
